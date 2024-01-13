@@ -20,7 +20,3 @@
   undefined
   ## License
     Licensed under the undefined license.
-
-## Here is a picture of it!
-
-    ![Alt text](<Develop/Screenshot 2024-01-12 195623.png>)
