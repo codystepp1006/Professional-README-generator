@@ -5,17 +5,17 @@
   
   
   ## Description
-  This project is to help you quickly generate a README file by simply answering a few quick questions.
+  make readmes quickly
   ## Requirenments
-  Inquirer
+  inquirer
   ## Usage
-  Javascript, node.js, markdown, jquery
+  JavaScript node.js markdown jquery
   ## GitHub username
   * Github: [codemaster718](https://github.comcodemaster718/)
   ## Contributors 
   
   ## How to use it?
-  Open up the command terminal, run this command:{  node index.js }. Next, just answer the questions that follow in the terminal. It will generate a README file!
+  run node index.js in terminal, answer promted questions, then watch a README file generate!
   [!NOTE] 
   undefined
   ## License
